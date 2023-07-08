@@ -2,6 +2,9 @@ This is a Web3 project
 Here anyone can sell anything and can buy anything.
 But the price is in Ethereum. 
 
+There is no Database used to store data like images, everything is on the blockchain.
+I used Infura to store data.
+
 ![pyelectric_01](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/fe24873c-64b3-4c13-993d-aba493fbfbbf)
 ![pyelectric_02](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/6bc90618-dfd4-48ec-840e-9131ec0474b7)
 ![Screenshot_5](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/3d225617-2c98-4706-9121-decde18a029b)
