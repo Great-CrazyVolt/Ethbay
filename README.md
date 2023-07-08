@@ -2,6 +2,8 @@ This is a Web3 project
 Here anyone can sell anything and can buy anything.
 But the price is in Ethereum. 
 
+The smart contract is developed in Solidity.
+
 There is no Database used to store data like images, everything is on the blockchain.
 I used Infura to store data.
 
