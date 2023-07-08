@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+This is a Web3 project
+Here anyone can sell anything and can buy anything.
+But the price is in Ethereum. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![pyelectric_01](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/fe24873c-64b3-4c13-993d-aba493fbfbbf)
+![pyelectric_02](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/6bc90618-dfd4-48ec-840e-9131ec0474b7)
+![Screenshot_5](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/3d225617-2c98-4706-9121-decde18a029b)
+![pyelectric_03](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/4a540b55-fec0-490d-a993-c0a808eb139e)
+![pyelectric_04](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/d4f749c9-0d55-4995-b13f-a2cb97fc17d3)
+![pyelectric_05](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/bea33a30-15bc-4acc-958b-0b551554294e)
+![pyelectric_06](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/65cc340a-cdcc-4629-af66-88957c6a897e)
+![pyelectric_07](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/f791b2af-e314-4ede-b958-5593d7f6b299)
+![pyelectric_08](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/4e2f376f-8e99-4dc9-82bf-6671553b6ab9)
+![Screenshot_6](https://github.com/Great-CrazyVolt/Ethbay/assets/69412726/7d71349c-2196-4f24-b472-81aa14c083cb)
